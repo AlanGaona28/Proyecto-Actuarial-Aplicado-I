@@ -4,4 +4,4 @@ El uso de modelos de machine learning en los mercados financieros últimamente h
 
 De igual forma, se evaluarán distintos modelos de machine learning para determinar su precisión en la predicción de precios, buscando determinar el intervalo de tiempo óptimo en el que el modelo alcanza la mayor precisión. Finalmente, el estudio explorará la integración de estos modelos en estrategias de trading automatizado, considerando sus oportunidades y limitaciones en escenarios reales.
 
-Los archivos en este repositorio contienen la información y código que se está utilizando para el Prácticum I.
+Los archivos en este repositorio contienen la información y código que se utilizó durante el desarrollo del Proyecto Actuarial Aplicado I.
